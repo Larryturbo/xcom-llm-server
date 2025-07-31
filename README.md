@@ -22,3 +22,5 @@ python3 llm_tcp_server.py
 pause
 ```
 - Always open run_server.bat before launching the game.
+- Set up XComLLM.ini with your provider, model and api key.
+- Launch XCOM2-WotC
